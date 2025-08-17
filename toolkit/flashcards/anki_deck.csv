@@ -1,0 +1,4 @@
+Front,Back
+What is the formula for F1 Score?,2 * (Precision * Recall) / (Precision + Recall)
+Name one AI risk in project estimation.,Bias in training data
+What is the role of AI in backlog refinement?,Helps split stories and generate acceptance criteria

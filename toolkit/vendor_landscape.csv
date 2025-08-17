@@ -1,0 +1,11 @@
+Category,Vendor,Description,Notes
+LLM Provider,OpenAI,GPT models for text/code,Add pricing & strengths
+LLM Provider,Anthropic,Claude models with safety focus,Add enterprise notes
+LLM Provider,Cohere,Embeddings + classification APIs,Add adoption stats
+Agile Tools,Jira,Backlog + sprint management,Integration hooks
+Agile Tools,Azure DevOps,Boards + repos + pipelines,Case study reference
+Agile Tools,Trello,Lightweight task boards,SMB adoption
+Compliance/AI Ethics,Credo AI,AI governance platform,Use for Ch.9 references
+Compliance/AI Ethics,Holistic AI,Risk assessments,Certification mapping
+MLOps,Weights & Biases,Experiment tracking,Model monitoring labs
+MLOps,MLflow,Open-source ML lifecycle,Link to Colab

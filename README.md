@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📘 AIPM Book Toolkit
 
 This repository hosts the companion toolkit for the upcoming book “AI Program Manager: How AI-Augmented Scrum & Agile Deliver 10× Value.”
@@ -94,3 +95,31 @@ Content (prompts, flashcards, quizzes) → CC-BY-NC 4.0
 👉 Use the code freely, but don’t monetize or resell the content.
 
 
+=======
+# AI PM Book – Toolkit
+
+This repository contains scaffolding for all operational assets referenced in the book:
+prompts, cheat-sheets, labs (Colab-ready), quizzes, study plans, vendor map, and diagram briefs.
+
+> NOTE: These are *stubs* to get your repo real on day one. Replace TODOs as you draft.
+
+
+## Scripts Quickstart
+
+```bash
+# 1) Monte Carlo velocity (outputs JSON + optional histogram)
+python scripts/monte_carlo_velocity.py --velocities 18,22,20,19 --sprints 10000 --plot
+
+# 2) Convert chapter quiz from YAML to JSON
+python scripts/quiz_convert.py --in toolkit/quizzes/chapter_quiz.yaml --out toolkit/quizzes/chapter_quiz.json
+
+# 3) Train a simple backlog classifier baseline
+python scripts/backlog_classifier_baseline.py --csv sample_backlog.csv --text_col title --label_col label
+
+# 4) Compute fairness metrics by group
+python scripts/fairness_metrics.py --csv preds.csv --y_true y --y_pred yhat --group sensitive_attr
+
+# 5) Generate Anki import file from CSV
+python scripts/generate_anki_from_csv.py --csv toolkit/anki/flashcards_template.csv --out anki_import.txt
+```
+>>>>>>> 3b81779 (chore: initial toolkit scaffold (labs, quizzes, prompts, study plan))

@@ -1,0 +1,5 @@
+Question,Option A,Option B,Option C,Option D,Correct Answer
+"Which of the following best describes the role of an AI-augmented Program Manager?","Tracking daily tasks manually","Orchestrating AI tools to accelerate value delivery","Eliminating Agile ceremonies altogether","Writing production code full-time","B"
+"During Sprint Planning, your team uses an AI model to auto-generate story point estimates. What AIPM domain does this practice align with?","Risk & Ethics","AI Project Life-Cycle","Strategic Integration","Data & Model Governance","B"
+"Which ethical risk is MOST likely when using AI to prioritize backlog items?","Increased velocity","Model drift over time","Bias in training data influencing priorities","Over-estimation of story points","C"
+"What is the primary purpose of embedding an AI 'control tower' in scaled programs?","Ensure compliance with HR policies","Centralize executive dashboards & dependency mapping","Replace Scrum Masters across teams","Automate release notes only","B"

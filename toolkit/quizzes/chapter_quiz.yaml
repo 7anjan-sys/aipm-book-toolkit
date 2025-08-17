@@ -1,0 +1,17 @@
+chapter: '1'
+questions:
+- question: What is the primary reason traditional PM playbooks stall in the AI era?
+  options:
+  - Lack of skilled PMs
+  - Rapidly evolving data and AI practices
+  - Too many Agile ceremonies
+  - Limited executive sponsorship
+  answer: 1
+- question: Which framework promises compounding value loops when integrated with
+    AI?
+  options:
+  - Waterfall
+  - Agile
+  - PRINCE2
+  - Six Sigma
+  answer: 1

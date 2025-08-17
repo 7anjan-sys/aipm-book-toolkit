@@ -1,0 +1,26 @@
+{
+  "version": "0.1",
+  "category": "AIPM Toolkit Prompts",
+  "items": [
+    {
+      "id": "acceptance_criteria_generator",
+      "file": "acceptance_criteria_generator.md"
+    },
+    {
+      "id": "backlog_grooming",
+      "file": "backlog_grooming_prompts.md"
+    },
+    {
+      "id": "retro_sentiment_analyzer",
+      "file": "retro_sentiment_analyzer.md"
+    },
+    {
+      "id": "risk_heatmap_generator",
+      "file": "risk_heatmap_generator.md"
+    },
+    {
+      "id": "standup_ai_coach",
+      "file": "standup_ai_coach.md"
+    }
+  ]
+}

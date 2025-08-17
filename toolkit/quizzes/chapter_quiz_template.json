@@ -1,0 +1,17 @@
+{
+  "schema": "aipm.quiz.v1",
+  "chapter": "X",
+  "questions": [
+    {
+      "q": "placeholder",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "rationale": "placeholder"
+    }
+  ]
+}

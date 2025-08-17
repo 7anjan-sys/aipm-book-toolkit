@@ -1,0 +1,6 @@
+title,label
+Add login with Google,feature
+Fix payment gateway bug,bug
+Improve dashboard UI,enhancement
+Integrate Slack notifications,feature
+Refactor authentication module,tech_debt

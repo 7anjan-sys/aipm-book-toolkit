@@ -1,0 +1,3 @@
+Section,Question,OptionA,OptionB,OptionC,OptionD,Correct,Explanation,Points
+Chapter 1,Which factor is least likely to cause an AI initiative to stall?,Poor data quality,Weak stakeholder engagement,Lack of GPU access,Unclear business objectives,C,Infra issues matter less than governance/alignment in most failures.,1
+Chapter 2,Which is NOT a core AI PM skill?,Prompt engineering,Data governance,Ethical compliance,Writing production code daily,D,AI PMs orchestrate; they do not need to ship prod code daily.,1
