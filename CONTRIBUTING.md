@@ -1,75 +1,73 @@
-# Contributing Guidelines
+# Contributing to AI Program Manager Book
 
-Thank you for your interest in contributing to the **AI Program Manager Book Toolkit** 🎉  
-This project combines **MIT-licensed code** and **CC BY-NC licensed content**.  
-Please follow the steps below when contributing.
+We welcome contributions! 🎉 Whether it’s fixing a typo, adding examples, improving docs, or suggesting features — your help makes this project better.
 
 ---
 
-## 🛠 How to Contribute
-
-1. **Fork the Repository**
-   - Click the "Fork" button on GitHub to create your own copy.
-
-2. **Clone Your Fork**
+## 📌 How to Contribute
+1. **Fork the repo** on GitHub.
+2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/<your-username>/aipm-book-toolkit.git
-   cd aipm-book-toolkit
-Create a Feature Branch
+   git clone https://github.com/your-username/AI-PM-Book.git
+Create a new branch for your changes:
 
 bash
 Copy
 Edit
-git checkout -b feature/my-new-idea
-Make Your Changes
+git checkout -b feature/your-feature-name
+Make your changes (code, docs, or toolkit files).
 
-For code (Colab notebooks, JSON stubs, scripts): keep it clean, add comments.
-
-For content (flashcards, cheat-sheets, study notes): keep it concise, well-structured, and properly attributed if you adapt external sources.
-
-Test Your Changes
-
-Run notebooks locally (Google Colab or Jupyter).
-
-Ensure Markdown files render cleanly.
-
-Commit and Push
+Commit your changes:
 
 bash
 Copy
 Edit
-git add .
-git commit -m "Added new flashcards for AI Governance"
-git push origin feature/my-new-idea
-Open a Pull Request
+git commit -m "Add feature: your-feature-name"
+Push to your fork:
 
-Go to the original repo on GitHub.
+bash
+Copy
+Edit
+git push origin feature/your-feature-name
+Open a Pull Request (PR) against the main branch of this repo.
 
-Click "New Pull Request."
+✅ Pull Request Guidelines
+Keep PRs focused — one feature/fix per PR.
 
-Clearly describe your changes.
+Write clear commit messages.
 
-📜 Licensing Notes
-Code is under MIT License.
+Include tests or examples if adding a new feature.
 
-Content (book outline, study materials, flashcards) is under CC BY-NC 4.0.
+Update documentation if relevant.
 
-Please respect the dual-license model when contributing.
+Be respectful in code reviews — we follow the Code of Conduct.
 
-✅ Contribution Ideas
-Add new practice questions aligned with AIPM exam domains.
+🧪 Development Guidelines
+This repo uses Markdown, JSON, and Jupyter/Colab notebooks for the Toolkit.
 
-Expand the flashcard deck with missing key terms.
+Use clear, concise language for docs.
 
-Create new Colab labs (e.g., backlog automation, AI-driven reporting).
+For Python notebooks, follow PEP 8 styling.
 
-Improve study plan templates or cheat-sheets.
+Add comments explaining non-trivial code.
 
-Report bugs or suggest improvements via GitHub Issues.
+🐛 Reporting Issues
+Use GitHub Issues for bugs, features, or questions.
 
-🙌 Code of Conduct
-Please be respectful, constructive, and collaborative.
-Let’s make this toolkit a valuable resource for everyone preparing for the AI-Driven Project Manager certification.
+Before opening a new issue, check if one already exists.
+
+When filing an issue, include:
+
+Steps to reproduce
+
+Expected vs actual behavior
+
+Environment details (OS, Python version, etc.)
+
+💡 Suggestions
+If you have an idea to improve the AI PM Book or its Toolkit, open an issue with the label enhancement and explain your reasoning.
+
+Thanks for contributing! 🙌
 
 # Contributing
 
