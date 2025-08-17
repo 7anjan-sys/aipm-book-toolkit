@@ -88,9 +88,15 @@ Check the Issues tab for open tasks.
 
 📜 License
 
-Code and notebooks → MIT License
+This repository uses a **dual-license structure**:
 
-Content (prompts, flashcards, quizzes) → CC-BY-NC 4.0
+- **Code & Scripts** → Licensed under the [MIT License](LICENSE-MIT).  
+  You are free to use, modify, and distribute the code with minimal restrictions.  
+
+- **Book Content, Text, and Media** → Licensed under [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](LICENSE-CC-BY-NC).  
+  You may remix, adapt, and build upon the content **non-commercially**, as long as you credit the author.  
+
+Please review both licenses before using this repository.  
 
 👉 Use the code freely, but don’t monetize or resell the content.
 
