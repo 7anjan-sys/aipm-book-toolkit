@@ -100,6 +100,16 @@ Please review both licenses before using this repository.
 
 👉 Use the code freely, but don’t monetize or resell the content.
 
+## Attribution Guidelines
+
+If you use or adapt material from this repository (under the **CC BY-NC 4.0 license**), please provide attribution like this:
+
+**Example Attribution:**
+
+> "Content adapted from *AI Program Manager Book Toolkit* by [Anjan Choudhary](https://github.com/<your-username>/aipm-book-toolkit),  
+> licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)."
+
+For code samples (under MIT license), attribution is appreciated but **not required**.
 
 =======
 # AI PM Book – Toolkit
